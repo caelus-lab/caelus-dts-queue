@@ -11,6 +11,7 @@ jest.config.ts
 jest.config.js
 .eslintrc
 .prettierrc
+coverage/
 *.env
 # Documentation/examples
 docs/
